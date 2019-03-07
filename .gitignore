@@ -1,4 +1,5 @@
 .gitignore
-access.log
-auth.log
-error.log
+#access.log
+#auth.log
+#error.log
+*.log
